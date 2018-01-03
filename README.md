@@ -9,4 +9,4 @@ Name | Author | Description
 ## Cool Sites
 Name | Description
 ---- | ----
-
+[x86 Assembly Emulator](http://carlosrafaelgn.com.br/asm86/) | Let's you write and execute assembly code as well as inspect registers
